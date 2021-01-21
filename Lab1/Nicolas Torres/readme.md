@@ -13,7 +13,7 @@ faltan materias como ARSW,IETI, SPTI, y electivas tecnicas, y varias cosas mas
 ```
 ### a que me dedico? 📋
 
-_soy desarrollador web fullstack javascript con **Node,React,Vue,Angular+4**_
+_soy desarrollador web fullstack javascript con **Node,React,Vue,Angular+4** en una empresa de tecnologia _
 
 
 ## Mi git 📌
