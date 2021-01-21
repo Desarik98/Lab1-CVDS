@@ -37,4 +37,4 @@ fragmentos de codigo
 const miTitulo = document.querySelector('h1');
 miTitulo.textContent = '¡Hola mundo!';
 ```
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fhalo-amino-oficial%2Fpage%2Fitem%2Fnoble-6%2FbeGY_BSnI8px1Yzwprv8DjvzEDVbWkooJ&psig=AOvVaw16vviC8W1cUqWaEsVVK8lr&ust=1611323218823000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj88faUre4CFQAAAAAdAAAAABAD)
+![](https://campusvirtual.escuelaing.edu.co/moodle/pluginfile.php/36035/user/icon/enlightlite/f1?rev=304202)
