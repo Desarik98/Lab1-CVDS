@@ -6,7 +6,7 @@
  - **Plan de Estudios:** 14
  - **Descripción:** Ingeniero de Sistemas de la Escuela Colombiana de Ingenieria Julio Garavito, con gustos 		  por el Desarrollo Web, Diseño de Redes y Desarrollo de Software
 
-Emocionado por aprender sobre *Ciclos de Desarrollo de Software*
+> Emocionado por aprender sobre *Ciclos de Desarrollo de Software*
 
 
 ## Conocimientos
