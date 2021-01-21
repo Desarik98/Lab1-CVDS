@@ -3,7 +3,8 @@ libro.txt
 EL LIBRO MAS FAMOSO DEL MUNDO
 
 AUTORES:
-
+Daniel
+Camila
 
 
 
@@ -16,3 +17,4 @@ CAPITULO DOS
 
 
 CAPITULO TRES
+
