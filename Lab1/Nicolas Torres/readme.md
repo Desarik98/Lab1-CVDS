@@ -22,6 +22,19 @@ _soy desarrollador web fullstack javascript con **Node,React,Vue,Angular+4** en 
 ## Mi pagina web ✒️
 (https://nicolastorres.herokuapp.com/)
 
-_se demora un poco en cargar, esta montada en heroku y realizada con next.js(renderizado en el servidor), react.js,node.js, mongo.db_
+Construido con 🛠️
+Menciona las herramientas que utilizaste para crear tu proyecto
 
+Next.js - Renderizado en el servidor
+React.js - Front
+Node.js + express - Backed
+MongoDb - Base de datos no relacional
 
+_se demora un poco en cargar, esta montada en heroku_
+
+fragmentos de codigo
+```
+const miTitulo = document.querySelector('h1');
+miTitulo.textContent = '¡Hola mundo!';
+```
+![ScreenShot](/Lab1\Nicolas Torres\6d51bbce46431bd1d5a22e4b34390cdecfb9b9c4r1-288-248v2_00.jpg)
