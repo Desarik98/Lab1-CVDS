@@ -10,9 +10,9 @@ Emocionado por aprender sobre *Ciclos de Desarrollo de Software*
 
 
 ## Conocimientos
-		 1. Python: Certificado Python 2019 (Platzi)
-		 2. Java:  Curso de Java SE Orientado a Objetos (Platzi)
-		 3. FrontEnd Developer: Curso de Frontend Developer (Platzi)
+	1. Python: Certificado Python 2019 (Platzi)
+	2. Java:  Curso de Java SE Orientado a Objetos (Platzi)
+	3. FrontEnd Developer: Curso de Frontend Developer (Platzi)
 ## Code
 ```
 	print("Hello World");
@@ -22,4 +22,4 @@ Emocionado por aprender sobre *Ciclos de Desarrollo de Software*
     
   ## Información Adicional
   
-[Mi Perfil](campusvirtual.escuelaing.edu.co/moodle/user/profile.php?id=10864)
+  [Mi Perfil](campusvirtual.escuelaing.edu.co/moodle/user/profile.php?id=10864)
