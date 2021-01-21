@@ -1,2 +1,18 @@
+libro.txt
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
+
+AUTORES:
+
+
+
+
+
+
+CAPITULO UNO
+
+
+CAPITULO DOS
+
+
+CAPITULO TRES
