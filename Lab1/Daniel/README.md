@@ -23,8 +23,8 @@
 ## Ejercicios Github
 
 Daniel Mejia/ 2128022
-[gitLocal](https://github.com/Desarik98/Lab1-CVDS/blob/Main/Lab1/Assets/gitLocal.png)
-[gitRemote](https://github.com/Desarik98/Lab1-CVDS/blob/Main/Lab1/Assets/gitRemote.png)
+![gitLocal](https://github.com/Desarik98/Lab1-CVDS/blob/Main/Lab1/Assets/gitLocal.png)
+![gitRemote](https://github.com/Desarik98/Lab1-CVDS/blob/Main/Lab1/Assets/gitRemote.png)
 
 ## Información Adicional
   
