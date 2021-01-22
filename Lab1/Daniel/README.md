@@ -19,7 +19,14 @@
 	System.out.println("Hello World");
 	console.log("Hello World");
 ```
-    
-  ## Información Adicional
+
+## Ejercicios Github
+
+Daniel Mejia/ 2128022
+[gitLocal](https://github.com/Desarik98/Lab1-CVDS/blob/Main/Lab1/Assets/gitLocal.png)
+[gitRemote](https://github.com/Desarik98/Lab1-CVDS/blob/Main/Lab1/Assets/gitRemote.png)
+
+## Información Adicional
   
   [Mi Perfil](campusvirtual.escuelaing.edu.co/moodle/user/profile.php?id=10864)
+
