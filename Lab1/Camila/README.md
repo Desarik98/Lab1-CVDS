@@ -23,12 +23,12 @@ Mis materias favoritas en lo que llevo de la carrera han sido MBDA, TSOR, RECO.
 
 ~~~
 
-### *Evidencia Curso *
+### *Evidencia Curso*
 
 ![Imagen](https://github.com/Desarik98/Lab1-CVDS/blob/Main/Lab1/Assets/RemoteCamila..PNG)
 
 ![Imagen](https://github.com/Desarik98/Lab1-CVDS/blob/Main/Lab1/Assets/RemoteCamila..PNG)
 
 ~~~
-Evidencia tomada por Maria Camila Fetecua Garcia Canet 2138954
+Evidencia tomada por Maria Camila Fetecua Garcia Carnet 2138954
 ~~~
